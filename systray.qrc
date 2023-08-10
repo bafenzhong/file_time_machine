@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/bad.png</file>
+        <file>images/heart.png</file>
+        <file>images/trash.png</file>
+        <file>images/file_time_machine.png</file>
+    </qresource>
+</RCC>
